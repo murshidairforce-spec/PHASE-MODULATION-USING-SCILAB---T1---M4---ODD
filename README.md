@@ -45,3 +45,7 @@ Where:
 ## CALCULATION
 <img width="809" height="1599" alt="image" src="https://github.com/user-attachments/assets/909979ee-7c08-4dd7-8835-d87af962e1ae" />
 
+
+## RESULT 
+The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. The modulated signal will show phase variations corresponding to the amplitude of the message signal.
+
